@@ -1,4 +1,4 @@
-# THIS IS NO LONGER MAINTAINED. FOR A MAINTAINED VERSION, SEE (bf2api)[https://github.com/AlekEagle/bf2api]
+# THIS IS NO LONGER MAINTAINED. FOR A MAINTAINED VERSION, SEE https://github.com/AlekEagle/bf2api
 
 This is a module that will allow you to connect to the BF2Hub API to read scores, and leaderboard entries, more features will be coming soon.
 
